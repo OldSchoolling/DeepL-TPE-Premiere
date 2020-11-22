@@ -1,0 +1,32 @@
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\AForge.dll
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\AForge.Genetic.dll
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\AForge.Math.dll
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\AForge.Neuro.dll
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\AForge.xml
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\AForge.Genetic.xml
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\AForge.Math.xml
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\AForge.Neuro.xml
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\bin\Debug\AForge.dll
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\bin\Debug\AForge.Genetic.dll
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\bin\Debug\AForge.Math.dll
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\bin\Debug\AForge.Neuro.dll
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\bin\Debug\AForge.xml
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\bin\Debug\AForge.Genetic.xml
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\bin\Debug\AForge.Math.xml
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\bin\Debug\AForge.Neuro.xml
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\bibi\TPE V2RITABLE\Production TPE\Pour s'intéresser au programme original\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

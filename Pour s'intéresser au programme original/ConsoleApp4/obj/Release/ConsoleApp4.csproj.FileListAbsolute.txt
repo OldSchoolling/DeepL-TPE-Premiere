@@ -1,0 +1,16 @@
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\ConsoleApp4.exe.config
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\ConsoleApp4.exe
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\ConsoleApp4.pdb
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\AForge.dll
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\AForge.Genetic.dll
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\AForge.Math.dll
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\AForge.Neuro.dll
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\AForge.xml
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\AForge.Genetic.xml
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\AForge.Math.xml
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\AForge.Neuro.xml
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\ConsoleApp4.csproj.CopyComplete
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\ConsoleApp4.exe
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\ConsoleApp4.pdb
+C:\Users\Marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\ConsoleApp4.csprojAssemblyReference.cache
